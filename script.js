@@ -12,5 +12,5 @@ function checkNumber(num) {
 }
 
 
-//const num = parseInt(prompt("Enter a number."));
+const num = parseInt(prompt("Enter a number."));
 alert(checkNumber(num));
